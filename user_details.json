@@ -1,0 +1,188 @@
+{
+  "user_details": [
+    {
+      "username": "johndoe",
+      "password": "secureP@ss1",
+      "email": "johndoe@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "+1234567890"
+    },
+    {
+      "username": "janedoe",
+      "password": "password123",
+      "email": "janedoe@example.com",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "phone": "+0987654321"
+    },
+    {
+      "username": "alice",
+      "password": "Alice2021!",
+      "email": "alice@example.com",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "phone": "+1122334455"
+    },
+    {
+      "username": "bob",
+      "password": "BobPass123",
+      "email": "bob@example.com",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "phone": "+2233445566"
+    },
+    {
+      "username": "charlie",
+      "password": "Charlie@2022",
+      "email": "charlie@example.com",
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "phone": "+3344556677"
+    },
+    {
+      "username": "david",
+      "password": "David#2023",
+      "email": "david@example.com",
+      "firstName": "David",
+      "lastName": "Williams",
+      "phone": "+4455667788"
+    },
+    {
+      "username": "eve",
+      "password": "EvePass456",
+      "email": "eve@example.com",
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "phone": "+5566778899"
+    },
+    {
+      "username": "frank",
+      "password": "Frank@789",
+      "email": "frank@example.com",
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "phone": "+6677889900"
+    },
+    {
+      "username": "grace",
+      "password": "Grace2024!",
+      "email": "grace@example.com",
+      "firstName": "Grace",
+      "lastName": "Wilson",
+      "phone": "+7788990011"
+    },
+    {
+      "username": "hank",
+      "password": "HankPass2025",
+      "email": "hank@example.com",
+      "firstName": "Hank",
+      "lastName": "Moore",
+      "phone": "+8899001122"
+    },
+    {
+      "username": "isabel",
+      "password": "Isabel2026@",
+      "email": "isabel@example.com",
+      "firstName": "Isabel",
+      "lastName": "Taylor",
+      "phone": "+9900112233"
+    },
+    {
+      "username": "jack",
+      "password": "Jack2027#",
+      "email": "jack@example.com",
+      "firstName": "Jack",
+      "lastName": "Anderson",
+      "phone": "+0011223344"
+    },
+    {
+      "username": "kate",
+      "password": "KatePass28!",
+      "email": "kate@example.com",
+      "firstName": "Kate",
+      "lastName": "Thomas",
+      "phone": "+1122334455"
+    },
+    {
+      "username": "leo",
+      "password": "Leo2029@",
+      "email": "leo@example.com",
+      "firstName": "Leo",
+      "lastName": "Jackson",
+      "phone": "+2233445566"
+    },
+    {
+      "username": "mia",
+      "password": "MiaPass30!",
+      "email": "mia@example.com",
+      "firstName": "Mia",
+      "lastName": "White",
+      "phone": "+3344556677"
+    },
+    {
+      "username": "nate",
+      "password": "Nate2021#",
+      "email": "nate@example.com",
+      "firstName": "Nate",
+      "lastName": "Harris",
+      "phone": "+4455667788"
+    },
+    {
+      "username": "olivia",
+      "password": "Olivia2022@",
+      "email": "olivia@example.com",
+      "firstName": "Olivia",
+      "lastName": "Martin",
+      "phone": "+5566778899"
+    },
+    {
+      "username": "paul",
+      "password": "Paul2023#",
+      "email": "paul@example.com",
+      "firstName": "Paul",
+      "lastName": "Garcia",
+      "phone": "+6677889900"
+    },
+    {
+      "username": "quinn",
+      "password": "Quinn2024!",
+      "email": "quinn@example.com",
+      "firstName": "Quinn",
+      "lastName": "Martinez",
+      "phone": "+7788990011"
+    },
+    {
+      "username": "rachel",
+      "password": "Rachel2025@",
+      "email": "rachel@example.com",
+      "firstName": "Rachel",
+      "lastName": "Rodriguez",
+      "phone": "+8899001122"
+    },
+    {
+      "username": "sam",
+      "password": "Sam2026#",
+      "email": "sam@example.com",
+      "firstName": "Sam",
+      "lastName": "Lee",
+      "phone": "+9900112233"
+    },
+    {
+      "username": "tina",
+      "password": "Tina2027!",
+      "email": "tina@example.com",
+      "firstName": "Tina",
+      "lastName": "Perez",
+      "phone": "+0011223344"
+    },
+    {
+      "username": "johndoe11",
+      "password": "secureP@ss1",
+      "email": "johndoe@example11.com",
+      "first": "John1",
+      "last": "Doe1",
+      "phone": "+123456789011"
+    }
+  ]
+}
